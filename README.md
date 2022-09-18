@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+Ordered service:
+- Creating a website for private fan blog communication.
+- Development of frontend HTML/React.js interface.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Requirements:
+1) Experience with Figma to convert design to HTML layout.
+2) Good understanding of JavaScript language and the skill to learn old code and understanding of asynchronous language algorithms.
+3) Experience with databases like MongoDB and MySql.
+4) Good understanding and experience with REST APIs. Required.
+5) Excellent command of state control technology in Redux components.
 
-## Available Scripts
+Description:
+The customer approached with the task of developing a frontend application and interface using React.js technology and MUI or Material UI library + we needed to integrate Youtube API for frontend to get the necessary data. First we converted the Figma layout into an adapted HTML layout for React.js (JSX) components (16 hours of work were spent on this task). Then we had to add registration and login logic with Google account and usual login with connection to client's database (the second stage took 32 hours, including time spent on tests). The third task was to connect Youtube Api to check the necessary data for the client (the third phase took 14 hours, including time spent on tests).
+In the end, 12 edits were made related to component visualization.
 
-In the project directory, you can run:
+Task:
+- First phase of work:
+1) Conversion of customer design from Figma to JSX components of React.js.
 
-### `npm start`
+- Second phase of work:
+1) Adding registration (JWT) and login modules (Google account) + regular login (MongoDB).
+2) Testing registration and login modules.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- The third stage of work:
+1) Connecting and integrating Youtube API.
+2) Testing frontend products using Youtube API.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+What skills did I need for this project?
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+react.js, mui, material ui, javascipt, html, css, json, integration api, youtube api, ui interface, frontend, rest api, registration module, login module, google account, jsx, data entry, visual interface, database, mongodb, tests, git, github, redux.
